@@ -1,0 +1,8 @@
+## Hi there 👋
+Welcome to Moonlight Studios. Home of [Waddle Penguins Island](https://github.com/WaddlePenguins), [Club Penguin Atake](https://www.cpatake.boo/), [Celestial Penguin](https://github.com/StarkStudiosInt), [CP Elemental](https://cpelemental.dink.cf/) and more.
+## Contribution guidelines 🌈
+You're more than welcome to contribute in the open-source projects. Please make sure to respect the service's guidelines.
+## Useful resources 👩‍💻
+You can visit our website - [www.fullmoon.dev](https://www.fullmoon.dev/) for more infomration on our services and documentation. We have a [Status Page](https://status.fullmoon.dev/) that is open-source [@MoonlightStudiosInt/status](https://github.com/MoonlightStudiosInt/status) and a [Support](https://support.fullmoon.dev/) website.
+## Fun facts 🍿
+We're located all around the world, together we create the best we can.
