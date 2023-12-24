@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to Moonlight Studios. Home of [Waddle Penguins Island](https://github.com/WaddlePenguins), [Club Penguin Atake](https://www.cpatake.boo/), [Celestial Penguin](https://github.com/StarkStudiosInt), [CP Elemental](https://cpelemental.dink.cf/) and more.
+Welcome to Fullmoon Studios. Home of [Waddle Penguins Island](https://github.com/WaddlePenguins), [Club Penguin Atake](https://www.cpatake.boo/), [Celestial Penguin](https://github.com/StarkStudiosInt), [CP Elemental](https://cpelemental.dink.cf/) and more.
 ## Contribution guidelines 🌈
 You're more than welcome to contribute in the open-source projects. Please make sure to respect the service's guidelines.
 ## Useful resources 👩‍💻
